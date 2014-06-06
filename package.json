@@ -1,0 +1,30 @@
+{
+  "name": "ere",
+  "version": "0.0.1",
+  "description": "Brainfuck script that will teach you what the hell is \"Erê\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelrinaldi/ere.git"
+  },
+  "keywords": [
+    "ere",
+    "toni",
+    "garrido",
+    "cidade",
+    "negra",
+    "brainfuck"
+  ],
+  "author": "Rafael Rinaldi <rafael.rinaldi@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/rafaelrinaldi/ere/issues"
+  },
+  "homepage": "https://github.com/rafaelrinaldi/ere",
+  "dependencies": {
+    "bf": "^0.1.2"
+  }
+}
